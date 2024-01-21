@@ -1,16 +1,20 @@
 ### Hi there 👋
+Student Repository - Faculty of Computer Science & Engineering
 
-<!--
-**milos-jakimovski/milos-jakimovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repository! As a student of the Faculty of Computer Science & Engineering, I use this space to organize and showcase my projects, assignments, and contributions throughout my academic journey.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate and dedicated student enrolled in the Faculty of Computer Science & Engineering. Aspiring to make a positive impact in the world of technology, I am constantly learning and exploring new concepts to broaden my understanding of computer science.
+
+Contact
+
+If you have any questions or suggestions or just want to connect, feel free to reach out to me:
+
+Email: milosh.jakimovski@students.finki.ukim.mk
+
+LinkedIn: [Milos Jakimovski](https://www.linkedin.com/in/milos-jakimovski-5a06a5219/) 
+
+Twitter: [Milos Jakimovski](https://twitter.com/JakimovskiMilos)
+
+I appreciate your interest in my work! 😊

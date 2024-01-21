@@ -1,5 +1,4 @@
 ### Hi there 👋
-Student Repository - Faculty of Computer Science & Engineering
 
 Welcome to my repository! As a student of the Faculty of Computer Science & Engineering, I use this space to organize and showcase my projects, assignments, and contributions throughout my academic journey.
 

@@ -10,7 +10,9 @@ Contact
 
 If you have any questions or suggestions or just want to connect, feel free to reach out to me:
 
-Email: milosh.jakimovski@students.finki.ukim.mk
+Email: jakimovskimilos04@gmail.com
+
+Student email: milosh.jakimovski@students.finki.ukim.mk
 
 LinkedIn: [Milos Jakimovski](https://www.linkedin.com/in/milos-jakimovski-5a06a5219/) 
 
